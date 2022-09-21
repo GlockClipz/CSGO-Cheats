@@ -2,10 +2,6 @@
 
 <div align=center>
 
-  ```
-  🚫 Update 12/5: Cheat has been detected by VANGUARD; proceed with caution
-  ```
-  
   <img src="./valorantLogo.png" width=100>
   
   # VALORANT Cheat
