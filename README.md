@@ -4,4 +4,3 @@
 > Coded in python, free, maybe a aimbot to be made
 > Open Source
 > Coded by zy#5969
-> ##
