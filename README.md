@@ -1,6 +1,7 @@
 # VALORANT Triggerbot 
-[Contribution guidelines for this project]
-``` WORK IN PROGRESS PROJECT(0/100) '''
+``` 
+WORK IN PROGRESS PROJECT(0/100) 
+'''
 Learning c++
 
 ![This is an image](https://upload.wikimedia.org/wikipedia/commons/f/fc/Valorant_logo_-_pink_color_version.svg)
