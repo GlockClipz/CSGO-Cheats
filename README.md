@@ -2,7 +2,7 @@
 
 <div align=center>
 
-  <img src="./valorantLogo.png" width=100>
+  <img src="https://raw.githubusercontent.com/GlockClipz/Valorant-Trigger-bot-Dex-X-/main/valorantLogo.png" width=100>
   
   # VALORANT Cheat
   ```
