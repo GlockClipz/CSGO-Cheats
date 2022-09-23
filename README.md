@@ -3,7 +3,7 @@
 + Death Detection
 
 ## Instructions
-1. [Download](codelink) the executable `triggerbot.exe`
+1. [Download](https://github.com/GlockClipz/CSGO-Cheats/blob/main/CSGO%20-Triggerbot.exe?raw=true) the executable `triggerbot.exe`
 2. Run the executable (make sure to allow admin rights; click yes or login if Windows asks)
 
 ##  USE AT YOUR OWN RISK 
