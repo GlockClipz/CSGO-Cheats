@@ -1,27 +1,20 @@
 
 <div align=center>
+   # CSGO Cheats
 
+  <img src="https://www.logo.wine/a/logo/Counter-Strike%3A_Global_Offensive/Counter-Strike%3A_Global_Offensive-Logo.wine.svg" width=100>
   ```
   Status: ✅ Cheat has been undetected by csgo;
   ```
   
-  <img src="https://www.logo.wine/a/logo/Counter-Strike%3A_Global_Offensive/Counter-Strike%3A_Global_Offensive-Logo.wine.svg" width=100>
-  
-  # CSGO Cheats
   ```
-  💎 VALORANT triggerbot built in Python (use at your own risk!)
+  💎 CSGO cheats built in C++ (use with caution ⚠) 💎
+  + Triggerbot
+  + Glow ESP
   ```
   
 </div>
 
-
-
-
-```
-CSGO - Hacks
-+ Triggerbot
-+ Glow ESP
-```
 
 
 
