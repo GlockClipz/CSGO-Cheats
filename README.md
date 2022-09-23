@@ -2,7 +2,6 @@
 
 <div align=center>
   ##FINTY - Triggerbot
-  <img src="https://logos-download.com/wp-content/uploads/2016/04/CS_logo_logotype_emblem_CS_GO.png" width=100>
 
    ```
   💎 CSGO triggerbot built in C+++
