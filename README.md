@@ -5,7 +5,7 @@
   ✅ Update 12/5: Cheat has been undetected by CSGO; 
   ```
   
-  <img src="https://cdn.exputer.com/wp-content/uploads/2018/09/CS_GO-390x220.png" width=100>
+  <img src="https://cdn.exputer.com/wp-content/uploads/2018/09/CS_GO-390x220.png" width=250>
   
   # CSGO Cheat
   ```
