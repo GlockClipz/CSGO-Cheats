@@ -1,5 +1,6 @@
-## Finity trigger bot
-
+## Finity trigger bot 🔫
++ Undetected
++ Death Detection
 
 ## Instructions
 1. [Download](codelink) the executable `triggerbot.exe`
