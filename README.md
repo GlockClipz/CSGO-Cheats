@@ -1,13 +1,5 @@
+## Finity trigger bot
 
-
-<div align=center>
-### Finity - csgo trigger bot  
-   ```
-  💎 CSGO triggerbot built in C+++
-  + Undetected
-  ```
-  
-</div>
 
 ## Instructions
 1. [Download](codelink) the executable `triggerbot.exe`
