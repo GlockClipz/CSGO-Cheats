@@ -14,12 +14,9 @@
   
 </div>
 
-
-
-
-
-
-
+## Products
+1. Triggerbot, A bot that shoots for u on detection of ur target press [Download](link) and follow `Instructions` 
+2. Glow ESP, A visual cheat that shows where ur enemys are located press [Download](link) and follow `Instructions` 
 
 
 ## Instructions
@@ -27,5 +24,5 @@
 2. If it asked if u want to keep this file press 'yes'
 3. Run the executable (make sure to allow admin rights; click yes or login if Windows asks)
 
-##  USE AT YOUR OWN RISK 
-- I am not responsible for anything that happens
+## Showcase
+link
