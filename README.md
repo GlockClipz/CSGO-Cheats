@@ -3,9 +3,7 @@
    # CSGO Cheats
 
   <img src="https://www.logo.wine/a/logo/Counter-Strike%3A_Global_Offensive/Counter-Strike%3A_Global_Offensive-Logo.wine.svg" width=100>
-  ```
-  Status: ✅ Cheat has been undetected by csgo;
-  ```
+
   
   ```
   💎 CSGO cheats built in C++ (use with caution ⚠) 💎
