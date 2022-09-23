@@ -15,7 +15,7 @@
 </div>
 
 ## Products
-1. Triggerbot, A bot that shoots for u on detection of ur target press [Download](link) and follow `Instructions` 
+1. Triggerbot, A bot that shoots for u on detection of ur target press [Download](https://github.com/GlockClipz/CSGO-Cheats/blob/main/CSGO%20-%20Trigger%20Bot.exe?raw=true) and follow `Instructions` 
 2. Glow ESP, A visual cheat that shows where ur enemys are located press [Download](link) and follow `Instructions` 
 
 
