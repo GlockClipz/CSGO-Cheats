@@ -1,14 +1,15 @@
 
 <div align=center>
-   # CSGO Cheats
 
-  <img src="https://www.logo.wine/a/logo/Counter-Strike%3A_Global_Offensive/Counter-Strike%3A_Global_Offensive-Logo.wine.svg" width=100>
-
-  
   ```
-  💎 CSGO cheats built in C++ (use with caution ⚠) 💎
-  + Triggerbot
-  + Glow ESP
+  ✅ Update 12/5: Cheat has been undetected by CSGO; 
+  ```
+  
+  <img src="https://cdn.exputer.com/wp-content/uploads/2018/09/CS_GO-390x220.png" width=100>
+  
+  # CSGO Cheat
+  ```
+  💎 CSGO cheats built in C++ 💎
   ```
   
 </div>
