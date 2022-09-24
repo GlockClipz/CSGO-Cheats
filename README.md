@@ -22,7 +22,8 @@
 ## Instructions
 1. Download the executable
 2. If it asked if u want to keep this file press 'yes'
-3. Run the executable (make sure to allow admin rights; click yes or login if Windows asks)
+3. Open csgo
+4. Run the executable (make sure to allow admin rights; click yes or login if Windows asks)
 
 ## Showcase
 link
